@@ -3,14 +3,21 @@
 This project involves the creation of a **Sales Data Analysis Dashboard** using **Power BI** to visualize key sales metrics and insights for data-driven decision-making. The dashboard includes various visualizations such as bar charts, pie charts, donut charts, and line charts to display sales performance and trends.
 
 ## Key Metrics and Insights:
-1.**Total Profit**: The total profit generated across all sales channels.
-2.**Total Revenue**: Revenue segmented by various dimensions like channels, customers, and products.
-3.**Total Order Quantity**: Total quantity of orders processed over different time periods.
-4.**Total Unit Cost**: The total cost of units sold, segmented by different sales channels (e.g., Wholesale, Distributor, Export).
-5.**Top 5 Customers by Order Quantity**: Identifying the top 5 customers contributing the most to order volume.
-6.**Total Revenue by Products**: Shows revenue contribution by different product categories.
-7.**Order Quantity by Month and Year**: Visualization of order volume over months for multiple years (2017, 2018, 2019).
-8.**Unit Costs by Currency**: Unit cost breakdown by currency (AUD, EUR, GBP, etc.).
+1. **Total Profit**: The total profit generated across all sales channels.
+
+2. **Total Revenue**: Revenue segmented by various dimensions like channels, customers, and products.
+
+3. **Total Order Quantity**: Total quantity of orders processed over different time periods.
+
+4. **Total Unit Cost**: The total cost of units sold, segmented by different sales channels (e.g., Wholesale, Distributor, Export).
+
+5. **Top 5 Customers by Order Quantity**: Identifying the top 5 customers contributing the most to order volume.
+
+6. **Total Revenue by Products**: Shows revenue contribution by different product categories.
+
+7. **Order Quantity by Month and Year**: Visualization of order volume over months for multiple years (2017, 2018, 2019).
+
+8. **Unit Costs by Currency**: Unit cost breakdown by currency (AUD, EUR, GBP, etc.).
 
 
 ## Skills & Technologies Used:
