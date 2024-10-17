@@ -3,13 +3,15 @@
 This project involves the creation of a **Sales Data Analysis Dashboard** using **Power BI** to visualize key sales metrics and insights for data-driven decision-making. The dashboard includes various visualizations such as bar charts, pie charts, donut charts, and line charts to display sales performance and trends.
 
 ## Key Metrics and Insights:
-1. **Total Sales**: Aggregated total sales value across all regions and products.
-2. **Profit Margins**: Profit margins per product and region.
-3. **Sales Growth**: Month-over-month sales growth and trend analysis.
-4. **Top Performing Products**: Identification of top-selling products by revenue.
-5. **Sales by Region**: Geographic breakdown of sales performance.
-6. **Inventory Turnover**: Analysis of how quickly inventory is sold.
-7. **Customer Segmentation**: Segmentation of customers based on purchase behavior.
+1.**Total Profit**: The total profit generated across all sales channels.
+2.**Total Revenue**: Revenue segmented by various dimensions like channels, customers, and products.
+3.**Total Order Quantity**: Total quantity of orders processed over different time periods.
+4.**Total Unit Cost**: The total cost of units sold, segmented by different sales channels (e.g., Wholesale, Distributor, Export).
+5.**Top 5 Customers by Order Quantity**: Identifying the top 5 customers contributing the most to order volume.
+6.**Total Revenue by Products**: Shows revenue contribution by different product categories.
+7.**Order Quantity by Month and Year**: Visualization of order volume over months for multiple years (2017, 2018, 2019).
+8.**Unit Costs by Currency**: Unit cost breakdown by currency (AUD, EUR, GBP, etc.).
+
 
 ## Skills & Technologies Used:
 - **Power BI**: For data visualization, modeling, and reporting.
@@ -38,9 +40,19 @@ This project involves the creation of a **Sales Data Analysis Dashboard** using 
 
 ## Visualizations Included:
 
-- Bar Charts: Show sales trends by category and time.
-- Pie Charts & Donut Charts: Represent distribution of sales across categories.
-- Line Charts: Highlight monthly sales growth over time.
-- Geographical Map: Display sales by region.
-- Tree Maps: Illustrate the contribution of products to total sales.
-
+1.**Bar Chart**:
+   - Displays total order quantity across months and years (2017-2019).
+   - Visualizes revenue and order quantity by products.
+2. **Pie Chart**:
+   - Shows customer index, depicting the top 5 customers by order quantity.
+4. **Stacked Bar Chart**:
+   - Displays the total unit cost by channel, categorized by currency codes (AUD, EUR, GBP, NZD, USD).
+5. **KPI Cards / Gauge Charts**:
+   - Total profit, total revenue, total order quantity, and total unit cost are highlighted using circular KPI visuals.
+6. **Line and Bar Combo Chart**:
+   - Combines line and bar charts to show both the sum of total revenue and the sum of order quantity across product descriptions.
+     
+## Project Objectives:
+ - Provide insights into sales performance, customer segmentation, and profit margins.
+ - Allow users to explore data interactively by filtering by years, products, or channels.
+ - Highlight the top contributing customers and channels for revenue and cost management.
